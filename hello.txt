@@ -1,2 +1,5 @@
 Hello! 
 I am learning how to use Git.
+
+
+Now, I find Git is Awesome!
